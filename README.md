@@ -1,10 +1,4 @@
-# Interview Quiz
-
-This assignment is an application to retrieve information about COVID-19 reports from the public API of DDC OpenData.
-
----
-
-The service provides 2 APIs to generate COVID-19 reports.
+# The service provides 2 APIs to generate COVID-19 reports.
 
 - The first one is an API to get COVID-19 cases from the public API, with the optional parameter `date` to filter the results by date.
 ```
